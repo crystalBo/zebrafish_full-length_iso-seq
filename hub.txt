@@ -1,6 +1,0 @@
-hup iso
-shortLable zebrafish
-longLable zebrafish GRCz11
-genomesFile genomes.txt
-email boj@idsse.ac.cn
-descriptionUrl description.txt
