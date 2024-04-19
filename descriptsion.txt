@@ -1,1 +1,1 @@
-We used the PacBio Sequel II platform to generate a time series full-length transcriptome landscape of zebrafish embryogenesis across 21 time points from egg to six days post-fertilization.
+We used the PacBio Sequel II platform to generate a time series full-length transcriptome of zebrafish embryogenesis across 21 time points from embryo to six days post-fertilization.
