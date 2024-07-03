@@ -1,0 +1,1 @@
+We utilized the PacBio Sequel II platform to generate a time-series full-length transcriptome of zebrafish embryogenesis, covering 21 developmental stages from unfertilized embryo to six days post-fertilization.
